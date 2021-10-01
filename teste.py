@@ -1,1 +1,1 @@
-print("conflito!")
+print("teste do conflito!")
