@@ -3,4 +3,7 @@ print("Adicionando mais uma mensagem para teste")
 def retornaMensagem():
     print("Agora eu estou criando mais uma funç~~ao para retornar uma mensagem nessa branch")
 retornaMensagem()
-    
+
+print("segunda branch")
+print("Adicionando mais uma mensagem para teste")
+
